@@ -1,0 +1,7 @@
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\bin\Debug\Targa.exe.config
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\bin\Debug\Targa.exe
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\bin\Debug\Targa.pdb
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\obj\Debug\Targa.csproj.AssemblyReference.cache
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\obj\Debug\Targa.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\obj\Debug\Targa.exe
+C:\Users\Emilio\Desktop\Itis\C sharp\Targa\Targa\obj\Debug\Targa.pdb
